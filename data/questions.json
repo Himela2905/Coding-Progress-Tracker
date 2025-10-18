@@ -1,0 +1,44 @@
+{
+    "Arrays": {
+        "questions": [
+            "What is the time complexity of insertion in arrays?",
+            "Difference between array and linked list?",
+            "How do you reverse an array in place?",
+            "Explain dynamic arrays.",
+            "What is an array?"
+        ],
+        "attempted_counts": {
+            "null": 5
+        }
+    },
+    "Strings": {
+        "questions": [
+            "What is string immutability in Java?",
+            "Explain substring method.",
+            "How do you reverse a string?",
+            "Difference between StringBuilder and StringBuffer?",
+            "How do you check if two strings are anagrams?"
+        ],
+        "attempted_counts": {}
+    },
+    "Binary Search": {
+        "questions": [
+            "What is the time complexity of binary search?",
+            "Binary search requires a sorted array. True/False?",
+            "How do you find the middle element in binary search?",
+            "When does binary search perform worst?",
+            "Binary search can be applied on linked lists. True/False?"
+        ],
+        "attempted_counts": {}
+    },
+    "Graph Traversal": {
+        "questions": [
+            "What are the two main graph traversal methods?",
+            "BFS uses which data structure?",
+            "DFS uses which data structure?",
+            "Can DFS find shortest paths in an unweighted graph?",
+            "What is the time complexity of BFS on a graph with V vertices and E edges?"
+        ],
+        "attempted_counts": {}
+    }
+}
